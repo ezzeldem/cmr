@@ -24,7 +24,7 @@ $(document).ready(function(){
         infinite: true,
         slidesToShow: 3,
         slidesToScroll: 1,
-        // autoplay: true,
+        autoplay: true,
         autoplaySpeed: 3000,
         dots: true,
         arrows:false,
@@ -52,5 +52,6 @@ $(document).ready(function(){
         ],
     });
 
-
+   // Aos
+   AOS.init();
 });

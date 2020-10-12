@@ -644,8 +644,10 @@ body {
   .intro-section .intro-content .intro-bottom-box a {
     font-size: 14px;
   }
-  .intro-section .section-title .title {
-    font-size: 26px;
+
+  .section-title .title {
+    font-size: 22px;
+    width: 100%;
   }
 
   .details-section .details-row-box .details-box {
